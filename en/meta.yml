@@ -1,0 +1,15 @@
+title: Detect motion with Scratch
+hero_image: images/banner.png
+description: Use a PIR and Scratch to detect motion
+original_url:
+theme: navy
+duration: 1
+listed: false
+ingredient: true
+copyedit: true
+curriculum: 
+interests: 
+technologies: "electronics, physical computing, scratch"
+site_areas:
+steps:
+  - title: Detecting motion
