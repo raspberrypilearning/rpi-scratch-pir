@@ -2,7 +2,7 @@ To detect motion with a passive infrared sensor (PIR) in Scratch 2, you simply n
 
 - For a simple test you can use the following script.
 
-![script](images/script.png)
+![script](images/script.gif)
 
 Wait about a minute for your PIR to settle, and then run the script. When it detects motion, your sprite should say `True`, and when no motion is detected, it will say `False`.
 
